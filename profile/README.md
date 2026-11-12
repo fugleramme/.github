@@ -11,7 +11,7 @@ See it live at **[fugleramme.arnegiacomo.dev](https://fugleramme.arnegiacomo.dev
 
 ## Projects
 
-- **[clients](https://github.com/fugleramme/clients)** - programs that show Fugleramme on other devices. Got an old tablet, a spare screen, a projector or a microcontroller with a display? Make it show your birds, then [open a pull request](https://github.com/fugleramme/clients/blob/main/CONTRIBUTING.md) to add your program (no need to ask first). [The docs](https://arnegiacomo.dev/fugleramme/screens/#on-an-external-e-ink-panel) help you get started.
+- **[clients](https://github.com/fugleramme/clients)** - programs that show Fugleramme on other devices. Got an old tablet, a spare screen, a projector or a microcontroller with a display? Make it show your birds, then [open a pull request](https://github.com/fugleramme/clients/blob/main/CONTRIBUTING.md) to add your program (no need to ask first). Once it's merged, you join the maintainers and help look after the repo. [The docs](https://arnegiacomo.dev/fugleramme/screens/) help you get started.
 
 ## Get involved
 
